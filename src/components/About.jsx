@@ -17,7 +17,7 @@ export default function About() {
               <div className="w-full aspect-[4/5] max-w-sm mx-auto lg:mx-0 rounded-3xl bg-gradient-to-br from-accent-50 to-violet-50 dark:from-accent-900/20 dark:to-violet-900/20 border border-accent-100 dark:border-accent-900/40 flex items-center justify-center overflow-hidden shadow-xl shadow-accent-100/30 dark:shadow-accent-900/20">
                 <div className="text-center">
                   {/* <div className="text-7xl mb-4">👨‍💻</div> */}
-                 <img src="/me.jpeg" alt="Margreet Emil" />
+              <img src="/Portfolio/me.jpeg" alt="Margreet Emil" />
                   {/* <p className="text-xs font-body text-slate-400 dark:text-slate-500 tracking-wide">[ Your Photo Here ]</p> */}
                 </div>
               </div>
