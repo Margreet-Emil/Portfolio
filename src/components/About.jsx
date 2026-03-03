@@ -47,8 +47,8 @@ export default function About() {
 
             <div className="reveal reveal-delay-1 space-y-4 text-slate-500 dark:text-slate-400 font-body font-extrabold leading-relaxed text-[0.95rem] mb-8">
               <p>
-                Hey! I'm a <strong className="font-500 text-purple-800 dark:text-slate-200">full-stack web developer</strong> with
-                Hi! I’m Margreet, a passionate Front-End Developer specializing in React and .NET technologies. I love building dynamic, responsive, and user-friendly web applications that solve real-world problems.
+                Hello! I’m Margreet, a <strong className="font-500 text-purple-800 dark:text-slate-200">full-stack web developer</strong> specializing in React and .NET technologies.
+                I’m passionate about building dynamic, responsive, and user-friendly web applications that solve real-world problems..
 
 I enjoy transforming ideas into clean, efficient, and maintainable code, combining React’s component-based architecture with .NET’s robust back-end capabilities to create full-stack solutions.
 
